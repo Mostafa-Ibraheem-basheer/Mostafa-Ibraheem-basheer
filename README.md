@@ -30,12 +30,12 @@
     <tr>
       <td>CurFit</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/CurFit"><b>CurFit</b></a></td>
-      <td>https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white</td>
+     <td><img alt="Python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white" /></td>
     </tr>
     <tr>
       <td>Sound Mixer</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/Sound-Mixer"><b>Sound-Mixer</b></a></td>
-      <td>https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white</td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white" /></td>
     </tr>
     <tr>
       <td>Med View</td>
@@ -45,7 +45,7 @@
     <tr>
       <td>Heart Faliure Detection</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/heart-failure-detection"><b>Heart-Faliure-Detection</b></a></td>
-      <td>https://img.shields.io/badge/-Machinelearning-red?style=flat-square&logo=OpenAI&logoColor=white</td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-MachineLearning-red?style=flat-square&logo=OpenAI&logoColor=white" /></td>
     </tr>
   </tbody>
 </table>
