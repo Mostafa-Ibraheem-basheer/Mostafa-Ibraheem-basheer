@@ -11,6 +11,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=BootStrap&logoColor=white" />
+   <img alt="Redux" src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux&logoColor=white" />
 </p>
 <h3>My Projects</h3>
 <table>
