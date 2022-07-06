@@ -47,5 +47,10 @@
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/heart-failure-detection"><b>Heart-Faliure-Detection</b></a></td>
       <td><img alt="Python" src="https://img.shields.io/badge/-MachineLearning-red?style=flat-square&logo=OpenAI&logoColor=white" /></td>
     </tr>
+    <tr>
+      <td>FilterIO</td>
+      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/FliterIO"><b>FilterIO</b></a></td>
+      <td><img alt="python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=python&logoColor=white" /></td>
+    </tr>
   </tbody>
 </table>
