@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to My Github!</h1>
 
 
-<p></br> I'm Mostafa Ibraheem Basheer, A Biomedical Engineer and a Fullstack developer</p>
+<p></br> I'm Mostafa Ibraheem Basheer, A Biomedical Engineer and a Fullstack web developer</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -11,7 +11,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=BootStrap&logoColor=white" />
-   <img alt="Redux" src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>My Projects</h3>
 <table>
