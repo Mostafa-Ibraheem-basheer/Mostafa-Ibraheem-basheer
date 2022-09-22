@@ -8,10 +8,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-598496?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=BootStrap&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>My Projects</h3>
