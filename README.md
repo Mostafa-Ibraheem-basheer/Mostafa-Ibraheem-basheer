@@ -14,6 +14,12 @@
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=BootStrap&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="PostgreSQ" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B000?style=flat-square&logo=Prettier&logoColor=white" />
 </p>
 <h3>My Projects</h3>
 <table>
