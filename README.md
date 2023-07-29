@@ -31,10 +31,15 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td>ScrEye</td>
+      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/screye"><b>ScrEye</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white" /></td>
+    </tr>
     <tr>
       <td>Signal Viewer</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/Signal-viewer"><b>Signal-Viewer</b></a></td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white" /></td>
+      <td><img alt="Flutter" src="https://img.shields.io/badge/-FlutterMobileApplication-598496?style=flat-square&logo=Flutter&logoColor=white" /></td>
     </tr>
     <tr>
       <td>CurFit</td>
@@ -52,7 +57,7 @@
       <td><img alt="React" src="https://img.shields.io/badge/-ReactWebApplication-45b8d8?style=flat-square&logo=react&logoColor=white" /></td>
     </tr>
     <tr>
-      <td>Heart Faliure Detection</td>
+      <td>Heart Failure Detection</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/heart-failure-detection"><b>Heart-Faliure-Detection</b></a></td>
       <td><img alt="Python" src="https://img.shields.io/badge/-MachineLearning-red?style=flat-square&logo=OpenAI&logoColor=white" /></td>
     </tr>
