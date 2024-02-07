@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>Landing Page</td>
-      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/landing-page"><b>FilterIO</b></a></td>
+      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/landing-page"><b>Landing Page</b></a></td>
       <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScriptsWebApplication-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></td>
     </tr>
   </tbody>
