@@ -36,15 +36,15 @@
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/screye"><b>ScrEye</b></a></td>
       <td><img alt="Flutter" src="https://img.shields.io/badge/-FlutterMobileApplication-598496?style=flat-square&logo=Flutter&logoColor=white" />
     </tr>
+    <tr>
+      <td>Bloggit</td>
+      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/bloggit"><b>Bloggit</b></a></td>
+      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScriptsWebApplication-yellow?style=flat-square&logo=JavaScript&logoColor=white" /></td></td>
+    </tr>
      <tr>
       <td>Weather&Time</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/Weather-Time"><b>Weather&Time</b></a></td>
       <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScriptsWebApplication-yellow?style=flat-square&logo=JavaScript&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td>Signal Viewer</td>
-      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/Signal-viewer"><b>Signal-Viewer</b></a></td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=Python&logoColor=white" /></td></td>
     </tr>
     <tr>
       <td>CurFit</td>
