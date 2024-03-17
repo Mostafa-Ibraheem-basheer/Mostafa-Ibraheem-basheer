@@ -39,7 +39,7 @@
     <tr>
       <td>Bloggit</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/bloggit"><b>Bloggit</b></a></td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScriptsWebApplication-yellow?style=flat-square&logo=JavaScript&logoColor=white" /></td></td>
+      <td><img alt="React" src="https://img.shields.io/badge/-ReactWebApplication-45b8d8?style=flat-square&logo=react&logoColor=white" />></td>
     </tr>
      <tr>
       <td>Weather&Time</td>
