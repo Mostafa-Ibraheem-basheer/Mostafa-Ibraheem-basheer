@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to My Github!</h1>
 
-<p><br> I'm Mostafa Ibraheem Basheer, A Frontend Engineer</p>
+<p><br> I'm Mostafa Ibraheem Basheer, A Frontend Engineer. <a href="https://mostafa-basheer.vercel.app/" target="_blank">Please Checkout my portfolio!</a></p>
 
 <h3>Things I code with</h3>
 <p>
@@ -43,6 +43,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>RAG BOT</td>
+      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/rag-bot"><b>RAG Chatbot</b></a></td>
+      <td><img alt="AI SDK" src="https://shields.io" /></td>
+    </tr>
     <tr>
       <td>3D Solar System</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/solar-system"><b>Solar System Sim</b></a></td>
@@ -87,11 +92,6 @@
       <td>FilterIO</td>
       <td><a href="https://github.com/Mostafa-Ibraheem-basheer/FilterIO"><b>FilterIO</b></a></td>
       <td><img alt="python" src="https://img.shields.io/badge/-PythonWindowsApplication-blue?style=flat-square&logo=python&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td>Landing Page</td>
-      <td><a href="https://github.com/Mostafa-Ibraheem-basheer/landing-page"><b>Landing Page</b></a></td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScriptsWebApplication-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
